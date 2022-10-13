@@ -1,0 +1,19 @@
+userName: browserstack_IeKtFO
+accessKey: PmeypzeukCQX8JuNwAWX
+platforms:
+  - deviceName: iPhone XS
+    osVersion: 15
+    browserName: ios
+  - deviceName: Samsung Galaxy S10
+    osVersion: 9.0
+    browserName: android
+  - deviceName: Samsung Galaxy S21
+    osVersion: 12.0
+    browserName: android
+parallelsPerPlatform: 1
+browserstackLocal: false
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
+consoleLogs: info
