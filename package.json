@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test-script": "browserstack-node-sdk mocha test/test-script.js --timeout=60000"
+    "start": "browserstack-node-sdk mocha test/test-script.js --timeout=60000"
   },
   "author": "",
   "license": "ISC",

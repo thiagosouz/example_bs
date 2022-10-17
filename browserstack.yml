@@ -10,7 +10,7 @@ platforms:
   - deviceName: Samsung Galaxy S21
     osVersion: 12.0
     browserName: android
-parallelsPerPlatform: 1
+parallelsPerPlatform: 3
 browserstackLocal: false
 buildName: browserstack-build-1
 projectName: BrowserStack Sample
